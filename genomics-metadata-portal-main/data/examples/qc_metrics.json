@@ -1,0 +1,167 @@
+[
+  {
+    "qc_result_id": "QCR00001",
+    "sample_id": "SMP0001",
+    "pipeline_run_id": "PRUN0003",
+    "qc_metric_name": "total_reads",
+    "metric_value_numeric": 8297209.0,
+    "metric_value_text": "",
+    "qc_status": "PASS",
+    "measured_at": "2025-09-08 07:00:00-07:00",
+    "source_file_asset_id": "FILE00008"
+  },
+  {
+    "qc_result_id": "QCR00002",
+    "sample_id": "SMP0001",
+    "pipeline_run_id": "PRUN0003",
+    "qc_metric_name": "pct_q30_bases",
+    "metric_value_numeric": 91.73,
+    "metric_value_text": "",
+    "qc_status": "PASS",
+    "measured_at": "2025-09-08 07:00:00-07:00",
+    "source_file_asset_id": "FILE00008"
+  },
+  {
+    "qc_result_id": "QCR00003",
+    "sample_id": "SMP0001",
+    "pipeline_run_id": "PRUN0003",
+    "qc_metric_name": "mean_target_coverage",
+    "metric_value_numeric": 870.39,
+    "metric_value_text": "",
+    "qc_status": "PASS",
+    "measured_at": "2025-09-08 07:00:00-07:00",
+    "source_file_asset_id": "FILE00008"
+  },
+  {
+    "qc_result_id": "QCR00004",
+    "sample_id": "SMP0001",
+    "pipeline_run_id": "PRUN0003",
+    "qc_metric_name": "pct_target_bases_100x",
+    "metric_value_numeric": 96.01,
+    "metric_value_text": "",
+    "qc_status": "PASS",
+    "measured_at": "2025-09-08 07:00:00-07:00",
+    "source_file_asset_id": "FILE00008"
+  },
+  {
+    "qc_result_id": "QCR00005",
+    "sample_id": "SMP0001",
+    "pipeline_run_id": "PRUN0003",
+    "qc_metric_name": "mapping_rate",
+    "metric_value_numeric": 0.9114,
+    "metric_value_text": "",
+    "qc_status": "WARN",
+    "measured_at": "2025-09-08 07:00:00-07:00",
+    "source_file_asset_id": "FILE00008"
+  },
+  {
+    "qc_result_id": "QCR00006",
+    "sample_id": "SMP0001",
+    "pipeline_run_id": "PRUN0003",
+    "qc_metric_name": "duplicate_rate",
+    "metric_value_numeric": 0.103,
+    "metric_value_text": "",
+    "qc_status": "PASS",
+    "measured_at": "2025-09-08 07:00:00-07:00",
+    "source_file_asset_id": "FILE00008"
+  },
+  {
+    "qc_result_id": "QCR00007",
+    "sample_id": "SMP0001",
+    "pipeline_run_id": "PRUN0003",
+    "qc_metric_name": "median_insert_size",
+    "metric_value_numeric": 195.06,
+    "metric_value_text": "",
+    "qc_status": "PASS",
+    "measured_at": "2025-09-08 07:00:00-07:00",
+    "source_file_asset_id": "FILE00008"
+  },
+  {
+    "qc_result_id": "QCR00008",
+    "sample_id": "SMP0001",
+    "pipeline_run_id": "PRUN0003",
+    "qc_metric_name": "estimated_contamination",
+    "metric_value_numeric": 0.0016,
+    "metric_value_text": "",
+    "qc_status": "PASS",
+    "measured_at": "2025-09-08 07:00:00-07:00",
+    "source_file_asset_id": "FILE00008"
+  },
+  {
+    "qc_result_id": "QCR00009",
+    "sample_id": "SMP0001",
+    "pipeline_run_id": "PRUN0003",
+    "qc_metric_name": "tumor_purity_qc",
+    "metric_value_numeric": 0.2869,
+    "metric_value_text": "",
+    "qc_status": "WARN",
+    "measured_at": "2025-09-08 07:00:00-07:00",
+    "source_file_asset_id": "FILE00008"
+  },
+  {
+    "qc_result_id": "QCR00010",
+    "sample_id": "SMP0001",
+    "pipeline_run_id": "PRUN0003",
+    "qc_metric_name": "sex_concordance",
+    "metric_value_numeric": "",
+    "metric_value_text": "CONCORDANT",
+    "qc_status": "PASS",
+    "measured_at": "2025-09-08 07:00:00-07:00",
+    "source_file_asset_id": "FILE00008"
+  },
+  {
+    "qc_result_id": "QCR00011",
+    "sample_id": "SMP0001",
+    "pipeline_run_id": "PRUN0003",
+    "qc_metric_name": "qc_summary_flag",
+    "metric_value_numeric": "",
+    "metric_value_text": "PASS",
+    "qc_status": "PASS",
+    "measured_at": "2025-09-08 07:00:00-07:00",
+    "source_file_asset_id": "FILE00008"
+  },
+  {
+    "qc_result_id": "QCR00012",
+    "sample_id": "SMP0002",
+    "pipeline_run_id": "PRUN0006",
+    "qc_metric_name": "total_reads",
+    "metric_value_numeric": 160992248.0,
+    "metric_value_text": "",
+    "qc_status": "PASS",
+    "measured_at": "2025-12-10 08:00:00-08:00",
+    "source_file_asset_id": "FILE00019"
+  },
+  {
+    "qc_result_id": "QCR00013",
+    "sample_id": "SMP0002",
+    "pipeline_run_id": "PRUN0006",
+    "qc_metric_name": "pct_q30_bases",
+    "metric_value_numeric": 83.16,
+    "metric_value_text": "",
+    "qc_status": "WARN",
+    "measured_at": "2025-12-10 08:00:00-08:00",
+    "source_file_asset_id": "FILE00019"
+  },
+  {
+    "qc_result_id": "QCR00014",
+    "sample_id": "SMP0002",
+    "pipeline_run_id": "PRUN0006",
+    "qc_metric_name": "mean_target_coverage",
+    "metric_value_numeric": 182.64,
+    "metric_value_text": "",
+    "qc_status": "PASS",
+    "measured_at": "2025-12-10 08:00:00-08:00",
+    "source_file_asset_id": "FILE00019"
+  },
+  {
+    "qc_result_id": "QCR00015",
+    "sample_id": "SMP0002",
+    "pipeline_run_id": "PRUN0006",
+    "qc_metric_name": "pct_target_bases_100x",
+    "metric_value_numeric": 95.97,
+    "metric_value_text": "",
+    "qc_status": "PASS",
+    "measured_at": "2025-12-10 08:00:00-08:00",
+    "source_file_asset_id": "FILE00019"
+  }
+]

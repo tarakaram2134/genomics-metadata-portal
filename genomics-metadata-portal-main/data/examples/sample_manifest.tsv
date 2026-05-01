@@ -1,0 +1,11 @@
+sample_id	patient_id	batch_id	sample_type	assay_type	collection_date	received_date	specimen_site	condition_label	sample_status	tumor_normal_status	library_prep_kit	notes	created_at
+SMP0001	PAT0001	BAT001	TUMOR	TARGETED_PANEL	2025-09-03	2025-09-05	liver metastasis	breast cancer	HOLD	TUMOR	Illumina TruSight Oncology		2025-09-05 10:00:00-07:00
+SMP0002	PAT0002	BAT004	TUMOR	WES	2025-11-22	2025-11-25	pleural fluid	lung adenocarcinoma	COMPLETE	TUMOR	Twist Exome 2.0		2025-11-25 10:00:00-08:00
+SMP0003	PAT0002	BAT003	TUMOR	TARGETED_PANEL	2026-01-21	2026-01-28	pleural fluid	lung adenocarcinoma	COMPLETE	TUMOR	Custom Amplicon Panel	Low input material	2026-01-28 10:00:00-08:00
+SMP0004	PAT0003	BAT005	TUMOR	WES	2025-11-27	2025-11-28	lymph node	lung adenocarcinoma	COMPLETE	TUMOR	Twist Exome 2.0		2025-11-28 10:00:00-08:00
+SMP0005	PAT0004	BAT001	TUMOR	WES	2025-09-21	2025-09-24	lymph node	lung adenocarcinoma	COMPLETE	TUMOR	Agilent SureSelect XT HS2		2025-09-24 10:00:00-07:00
+SMP0006	PAT0005	BAT004	TUMOR	WES	2025-08-02	2025-08-06	breast	breast cancer	REGISTERED	TUMOR	Agilent SureSelect XT HS2	Processing priority elevated	2025-08-06 10:00:00-07:00
+SMP0007	PAT0005	BAT005	RNA	RNA_SEQ	2025-08-22	2025-08-23	breast	breast cancer	COMPLETE	TUMOR	KAPA RNA HyperPrep	Repeat extraction requested	2025-08-23 10:00:00-07:00
+SMP0008	PAT0006	BAT002	RNA	RNA_SEQ	2025-07-22	2025-07-28	axillary node	breast cancer	COMPLETE	TUMOR	KAPA RNA HyperPrep	Matched to downstream clinical review	2025-07-28 10:00:00-07:00
+SMP0009	PAT0007	BAT001	RNA	RNA_SEQ	2025-07-13	2025-07-15	rectum	colorectal cancer	COMPLETE	TUMOR	TruSeq Stranded mRNA		2025-07-15 10:00:00-07:00
+SMP0010	PAT0008	BAT002	TUMOR	WES	2025-09-14	2025-09-19	pleural fluid	lung adenocarcinoma	REGISTERED	TUMOR	Agilent SureSelect XT HS2	Repeat extraction requested	2025-09-19 10:00:00-07:00

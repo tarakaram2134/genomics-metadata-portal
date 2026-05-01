@@ -1,0 +1,7 @@
+seq_run_id	instrument_run_name	platform	instrument_model	flowcell_id	run_date	read_length	paired_end	center_name	run_status	notes	created_at
+RUN001	INST_RUN_2026_01	ILLUMINA	NextSeq 2000	FCELL0016091	2025-11-29	2x150	True	Research Sequencing Lab	COMPLETE	Flowcell quality concern flagged	2025-11-29 07:00:00-08:00
+RUN002	INST_RUN_2026_02	ILLUMINA	NovaSeq 6000	FCELL0024681	2025-12-06	2x150	True	Clinical Genomics Core	COMPLETE	Standard production run	2025-12-06 07:00:00-08:00
+RUN003	INST_RUN_2026_03	ILLUMINA	NextSeq 2000	FCELL0039165	2025-12-13	151	True	Research Sequencing Lab	COMPLETE	Repeat sequencing required for subset of libraries	2025-12-13 07:00:00-08:00
+RUN004	INST_RUN_2026_04	ILLUMINA	GridION	FCELL0048905	2025-12-20	75	True	North Bay Genomics	PARTIAL	Flowcell quality concern flagged	2025-12-20 07:00:00-08:00
+RUN005	INST_RUN_2026_05	ILLUMINA	NextSeq 2000	FCELL0057284	2025-12-27	2x100	True	Research Sequencing Lab	FAILED		2025-12-27 07:00:00-08:00
+RUN006	INST_RUN_2026_06	ILLUMINA	NovaSeq 6000	FCELL0065526	2026-01-03	75	True	Clinical Genomics Core	COMPLETE		2026-01-03 07:00:00-08:00

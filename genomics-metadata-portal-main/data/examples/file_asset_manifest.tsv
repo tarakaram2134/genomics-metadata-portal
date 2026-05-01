@@ -1,0 +1,21 @@
+file_asset_id	sample_id	pipeline_run_id	file_role	file_format	path_uri	checksum	file_size_bytes	source_system	is_current	created_at
+FILE00001	SMP0001		RAW_FASTQ	FASTQ_GZ	s3://genomics-portal/raw/SMP0001/SMP0001_R1.fastq.gz	ad5b7854677c2e71b518acd3eb8c0beb	711755969	synthetic_generator	True	2025-09-05 10:00:00-07:00
+FILE00002	SMP0001	PRUN0001	BAM	BAM	s3://genomics-portal/derived/SMP0001/PRUN0001/bam.bam	c8ca934abbdbfe0781fc309a3281910c	2611272861	synthetic_generator	True	2025-09-08 02:05:00-07:00
+FILE00003	SMP0001	PRUN0001	BAI	BAI	s3://genomics-portal/derived/SMP0001/PRUN0001/bai.bai	319a1c5ef080620d7809a1e216d89ab9	19135451	synthetic_generator	True	2025-09-08 02:05:00-07:00
+FILE00004	SMP0001	PRUN0001	LOG	TXT	s3://genomics-portal/derived/SMP0001/PRUN0001/log.txt	cc2693beb19920220622592374cc2ae8	4361991	synthetic_generator	True	2025-09-08 02:05:00-07:00
+FILE00005	SMP0001	PRUN0002	VCF	VCF_GZ	s3://genomics-portal/derived/SMP0001/PRUN0002/vcf.vcf_gz	53597ba4d0df01fdb18a1bbdbbe18117	19723152	synthetic_generator	True	2025-09-08 08:05:00-07:00
+FILE00006	SMP0001	PRUN0002	MAF	MAF	s3://genomics-portal/derived/SMP0001/PRUN0002/maf.maf	89bf271f7d02256675c80045565f51df	1317435	synthetic_generator	True	2025-09-08 08:05:00-07:00
+FILE00007	SMP0001	PRUN0002	LOG	TXT	s3://genomics-portal/derived/SMP0001/PRUN0002/log.txt	ed45df2c52e41aeb03dc4a92757dffc4	4835424	synthetic_generator	True	2025-09-08 08:05:00-07:00
+FILE00008	SMP0001	PRUN0003	QC_JSON	JSON	s3://genomics-portal/derived/SMP0001/PRUN0003/qc_json.json	219dfd0472a45c78810817f71333c75a	135884	synthetic_generator	True	2025-09-08 03:05:00-07:00
+FILE00009	SMP0001	PRUN0003	QC_TSV	TSV	s3://genomics-portal/derived/SMP0001/PRUN0003/qc_tsv.tsv	e9fa6b3ad1be6269951c6d463a6251f1	121858	synthetic_generator	True	2025-09-08 03:05:00-07:00
+FILE00010	SMP0001	PRUN0003	REPORT	TXT	s3://genomics-portal/derived/SMP0001/PRUN0003/report.txt	414894fbf4d9ca23c3f7f53fc52c80d4	412292	synthetic_generator	True	2025-09-08 03:05:00-07:00
+FILE00011	SMP0001	PRUN0003	LOG	TXT	s3://genomics-portal/derived/SMP0001/PRUN0003/log.txt	9e5a06a6ca3420331dd51f10dc956574	3291071	synthetic_generator	True	2025-09-08 03:05:00-07:00
+FILE00012	SMP0002		RAW_FASTQ	FASTQ_GZ	s3://genomics-portal/raw/SMP0002/SMP0002_R1.fastq.gz	032aa8cafbfa599c99e8aa87b2a95f3c	1494420671	synthetic_generator	True	2025-11-25 10:00:00-08:00
+FILE00013	SMP0002	PRUN0004	BAM	BAM	s3://genomics-portal/derived/SMP0002/PRUN0004/bam.bam	aa2ed19f945a7172ae1c2f01f4c96156	3649484176	synthetic_generator	True	2025-12-10 06:05:00-08:00
+FILE00014	SMP0002	PRUN0004	BAI	BAI	s3://genomics-portal/derived/SMP0002/PRUN0004/bai.bai	bd5e15e5c4df2c774af312f3bab73baa	13575184	synthetic_generator	True	2025-12-10 06:05:00-08:00
+FILE00015	SMP0002	PRUN0004	LOG	TXT	s3://genomics-portal/derived/SMP0002/PRUN0004/log.txt	3f6424689e90ca220650ed09dc21dfc2	216046	synthetic_generator	True	2025-12-10 06:05:00-08:00
+FILE00016	SMP0002	PRUN0005	VCF	VCF_GZ	s3://genomics-portal/derived/SMP0002/PRUN0005/vcf.vcf_gz	5e2365d851e8b838a2947dde7cc20bf1	17199109	synthetic_generator	True	2025-12-10 02:05:00-08:00
+FILE00017	SMP0002	PRUN0005	MAF	MAF	s3://genomics-portal/derived/SMP0002/PRUN0005/maf.maf	798099c7f5765d75f81b664a431d68bc	319255	synthetic_generator	True	2025-12-10 02:05:00-08:00
+FILE00018	SMP0002	PRUN0005	LOG	TXT	s3://genomics-portal/derived/SMP0002/PRUN0005/log.txt	e04f0e424daa0fe501b1823368fe89f5	2488265	synthetic_generator	True	2025-12-10 02:05:00-08:00
+FILE00019	SMP0002	PRUN0006	QC_JSON	JSON	s3://genomics-portal/derived/SMP0002/PRUN0006/qc_json.json	e1926b0b684f1586a3db387b8364ef6c	238090	synthetic_generator	True	2025-12-10 01:05:00-08:00
+FILE00020	SMP0002	PRUN0006	QC_TSV	TSV	s3://genomics-portal/derived/SMP0002/PRUN0006/qc_tsv.tsv	1c53fae59ed1a833e22d5ba7bf5bf19e	27506	synthetic_generator	True	2025-12-10 01:05:00-08:00
